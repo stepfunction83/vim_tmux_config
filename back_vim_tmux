@@ -1,6 +1,6 @@
 #!/bin/zsh
 cp /home/michael/.vimrc /home/michael/vim_tmux_config/.vimrc
 cp /home/michael/.tmux.conf /home/michael/vim_tmux_config/.tmux.conf
-git add .
-git commit -m "Updating tmux+vim config"
-git push
+/usr/bin/git add .
+/usr/bin/git commit -m "Updating tmux+vim config"
+/usr/bin/git push
