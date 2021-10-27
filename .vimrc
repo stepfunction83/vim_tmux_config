@@ -1,4 +1,3 @@
-" test
 " https://dougblack.io/words/a-good-vimrc.html
 set number " enable line numbers
 syntax enable " enable syntax highlighting
