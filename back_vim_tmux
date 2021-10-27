@@ -1,0 +1,5 @@
+cp ~/.vimrc ~/vim_tmux_config/.vimrc
+cp ~/.tmux.conf ~/vim_tmux_config/.tmux.conf
+git add .
+git commit
+git push
