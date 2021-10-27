@@ -1,4 +1,5 @@
 #!/bin/zsh
+cd /home/michael/vim_tmux_config
 cp /home/michael/.vimrc /home/michael/vim_tmux_config/.vimrc
 cp /home/michael/.tmux.conf /home/michael/vim_tmux_config/.tmux.conf
 /usr/bin/git add .
