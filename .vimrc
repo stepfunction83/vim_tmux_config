@@ -1,3 +1,4 @@
+" test update!
 " https://dougblack.io/words/a-good-vimrc.html
 set number " enable line numbers
 syntax enable " enable syntax highlighting
@@ -66,6 +67,7 @@ Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
 Plug 'scrooloose/syntastic'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
-
+" See notes at: https://madskjeldgaard.dk/posts/rust-ycm/
+Plug 'Valloric/YouCompleteMe'
 
 call plug#end()
